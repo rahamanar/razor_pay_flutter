@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+<img src="https://github.com/rahamanar/razor_pay_flutter/blob/main/Assets/razorpay.gif" width="160" height="280">  
+
+# Screenshots :
+
+<img src="https://github.com/rahamanar/razor_pay_flutter/blob/main/Assets/Screenshot1.png" width="160" height="280">          <img src="https://github.com/rahamanar/razor_pay_flutter/blob/main/Assets/Screenshot2.png" width="160" height="280">          <img src="https://github.com/rahamanar/razor_pay_flutter/blob/main/Assets/Screenshot3.png" width="160" height="280">
+<br/>
+<img src="https://github.com/rahamanar/razor_pay_flutter/blob/main/Assets/Screenshot4.png" width="160" height="280">          <img src="https://github.com/rahamanar/razor_pay_flutter/blob/main/Assets/Screenshot5.png" width="160" height="280">          <img src="https://github.com/rahamanar/razor_pay_flutter/blob/main/Assets/Screenshot6.png" width="160" height="280">
+<br/>
+<img src="https://github.com/rahamanar/razor_pay_flutter/blob/main/Assets/Screenshot7.png" width="160" height="280">         
+<br/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
